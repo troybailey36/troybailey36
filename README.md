@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @troybailey36
-- 👀 I’m interested in Firebase & React
 
 <!---
 troybailey36/troybailey36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
